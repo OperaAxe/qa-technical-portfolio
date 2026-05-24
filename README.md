@@ -10,11 +10,11 @@ This repository serves as a professional showcase of automated testing framework
 
 # 📂 Navigation
 
-* * **Setup Guide** – How to install and run the test suite.
+* **Setup Guide** – How to install and run the test suite.
 * **Bug Reports** – Examples of professional bug documentation.
 * **Test Strategy** – (Coming soon) High-level testing approach.
 
-## 🎯 Objective
+# 🎯 Objective
 
 This project demonstrates:
 
