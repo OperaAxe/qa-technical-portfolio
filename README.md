@@ -21,4 +21,4 @@ This project demonstrates:
 1. **Automated Testing:** Implementation of reliable, scalable end-to-end tests.
 2. **Technical Writing:** Ability to translate technical processes into easy-to-follow documentation for stakeholders.
 
-*Created by OperaAxe
+Created by OperaAxe
